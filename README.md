@@ -17,3 +17,6 @@ C. ```if (length! = 75) { // Some block of code to execute }```
 
 D. ```if (length == "75") { // Some block of code to execute }```
 
+------------------------------------------------------------------
+
+A and B
